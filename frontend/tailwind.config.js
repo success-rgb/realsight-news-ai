@@ -1,0 +1,1 @@
+module.exports = { content: ['./app/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}'], theme: { extend: { colors: { 'realsight-dark': '#0a0e27', 'realsight-black': '#000000', 'realsight-blue': '#1e3a8a', 'realsight-white': '#ffffff' }, fontFamily: { 'sans': ['system-ui', 'sans-serif'] } } }, plugins: [] }
